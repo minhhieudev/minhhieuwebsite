@@ -6,6 +6,7 @@
 </head>
 <body>
 
+
 <form method="post" action="register.php" class="form">
 
 <h2>Đăng ký thành viên</h2>
